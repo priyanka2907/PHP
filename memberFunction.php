@@ -45,6 +45,5 @@ $mymobile->getPrice();// display value
 output_add_rewrite_var
 Samsung
 10000
-
 */
 ?>
